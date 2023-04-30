@@ -1,7 +1,8 @@
-# misc
+<div align="center">
+  <h1>misc</h1>
+  <img src="https://img.shields.io/github/license/jaylnxyz/site">
+  <img src="https://img.shields.io/github/directory-file-count/jaylnxyz/misc">
+  <img src="https://img.shields.io/github/repo-size/risej/site">
+</div>
 
-![](https://img.shields.io/github/license/risej/site)
-![](https://img.shields.io/github/directory-file-count/risej/misc)
-![](https://img.shields.io/github/repo-size/risej/site)
-
-anything and everything
+<p>anything and everything</p>
